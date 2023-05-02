@@ -9,4 +9,4 @@ services:
       - ./logs:/var/log/nginx
     container_name: lock-screen-nginx
     ports:
-      - "8080:80"
+      - "80:80"
