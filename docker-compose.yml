@@ -10,3 +10,4 @@ services:
     container_name: lock-screen-nginx
     ports:
       - "80:80"
+      - "443:443"
