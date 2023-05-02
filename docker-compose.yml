@@ -1,0 +1,12 @@
+version: '3.0'
+
+services:
+  nginx:
+    build:
+      context: ./docker/nginx
+    volumes:
+      - ./:/site
+      - ./logs:/var/log/nginx
+    container_name: lock-screen-nginx
+    ports:
+      - "8080:80"

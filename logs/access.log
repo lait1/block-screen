@@ -1,0 +1,7 @@
+172.20.0.1 - - [02/May/2023:14:23:57 +0000] "GET / HTTP/1.1" 200 4973 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.20.0.1 - - [02/May/2023:14:23:58 +0000] "GET /images/whatsapp.svg HTTP/1.1" 200 3452 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.20.0.1 - - [02/May/2023:14:23:58 +0000] "GET /images/tripster.png HTTP/1.1" 200 1764 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.20.0.1 - - [02/May/2023:14:23:58 +0000] "GET /images/bg.jpg HTTP/1.1" 200 150567 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.20.0.1 - - [02/May/2023:14:23:58 +0000] "GET /favicon.ico HTTP/1.1" 500 579 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.20.0.1 - - [02/May/2023:14:24:15 +0000] "GET / HTTP/1.1" 200 4976 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.20.0.1 - - [02/May/2023:14:24:15 +0000] "GET /favicon.ico HTTP/1.1" 500 579 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
