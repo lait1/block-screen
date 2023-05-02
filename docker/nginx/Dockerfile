@@ -1,6 +1,5 @@
 FROM nginx:latest
 
-ADD discover-georgia.ru.conf /etc/nginx/sites-available/discover-georgia.ru.conf
-ADD discover-georgia.com.conf /etc/nginx/sites-available/discover-georgia.com.conf
+ADD ./default.conf /etc/nginx/conf.d/default.conf
 
 WORKDIR /site
