@@ -7,7 +7,6 @@ services:
     volumes:
       - ./:/site
       - ./logs:/var/log/nginx
-      - /etc/letsencrypt/live:/etc/letsencrypt/live
     container_name: lock-screen-nginx
     ports:
       - "80:80"
